@@ -1,0 +1,22 @@
+{
+        "name": "BetterHub",
+        "version": "0.0.1",
+        "manifest_version": 3,
+        "description": "Make your experience with the Hub better. I know you visit there a lot ;)",
+        "author": "Nirlep_5252_",
+
+        "action": {
+                "default_title": "Click to view & modify the settings",
+                "default_popup": "popup/index.html"
+        },
+        "icons": {
+                "16": "images/logo2.png",
+                "24": "images/logo2.png",
+                "32": "images/logo2.png",
+                "64": "images/logo2.png",
+                "128": "images/logo2.png"
+        },
+
+        "permissions": ["tabs"],
+        "options_page": "options/index.html"
+}
